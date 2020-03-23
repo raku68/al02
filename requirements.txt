@@ -5,3 +5,5 @@ pandas
 pillow
 sklearn
 cairocffi
+seaborn
+fastcluster
